@@ -1,0 +1,1091 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kan\\source\\repos\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB6129B-8204-4C6D-AABB-3D2D9280C72B}|ECommerce\\ECommerce.Web.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AB6129B-8204-4C6D-AABB-3D2D9280C72B}|ECommerce\\ECommerce.Web.csproj|solutionrelative:ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Migrations\\20240709171645_AddTableToDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.DataAccess\\Migrations\\20240709171645_AddTableToDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\itemrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\itemrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\productdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\productdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\sizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\sizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\subcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\subcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\irepository\\isubcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\irepository\\isubcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\irepository\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\irepository\\isizerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\irepository\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\irepository\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\irepository\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\irepository\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\irepository\\iproductdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\irepository\\iproductdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\irepository\\iorderrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\irepository\\iorderrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\irepository\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\irepository\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\irepository\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\irepository\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\irepository\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\irepository\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\repository\\irepository\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\irepository\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\ecommerce.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\ecommerce.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\viewmodels\\customercategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\viewmodels\\customercategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\viewmodels\\subcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\viewmodels\\subcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\viewmodels\\sizevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\viewmodels\\sizevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\viewmodels\\searchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\viewmodels\\searchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\viewmodels\\productdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\viewmodels\\productdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\viewmodels\\productdetailcustomervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\viewmodels\\productdetailcustomervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\viewmodels\\dashboardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\viewmodels\\dashboardvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\viewmodels\\customersubcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\viewmodels\\customersubcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\viewmodels\\catsandsubcatsvcvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\viewmodels\\catsandsubcatsvcvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.models\\viewmodels\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F7A1B-191B-4725-8DD2-8D0FFAAABAB3}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\viewmodels\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0001DD-E823-403A-A949-564C71EEF66A}|ECommerce.Utility\\ECommerce.Utility.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.utility\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0001DD-E823-403A-A949-564C71EEF66A}|ECommerce.Utility\\ECommerce.Utility.csproj|solutionrelative:ecommerce.utility\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0001DD-E823-403A-A949-564C71EEF66A}|ECommerce.Utility\\ECommerce.Utility.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0001DD-E823-403A-A949-564C71EEF66A}|ECommerce.Utility\\ECommerce.Utility.csproj|solutionrelative:ecommerce.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB6129B-8204-4C6D-AABB-3D2D9280C72B}|ECommerce\\ECommerce.Web.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB6129B-8204-4C6D-AABB-3D2D9280C72B}|ECommerce\\ECommerce.Web.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\dbinitializer\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\dbinitializer\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|c:\\users\\kan\\source\\repos\\ecommerce\\ecommerce.dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E912B47-24E9-4521-9A41-A57CB718A882}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\dbinitializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 384,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerce\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce\\appsettings.json",
+              "RelativeToolTip": "ECommerce\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T17:17:04.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240709171645_AddTableToDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Migrations\\20240709171645_AddTableToDatabase.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Migrations\\20240709171645_AddTableToDatabase.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Migrations\\20240709171645_AddTableToDatabase.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Migrations\\20240709171645_AddTableToDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:16:45.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:03:43.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:03:49.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ProductDetailRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\ProductDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ProductDetailRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\ProductDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:03:38.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:03:34.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ItemRepository .cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\ItemRepository .cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ItemRepository .cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\ItemRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:03:29.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ImageRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\ImageRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ImageRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\ImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:03:25.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ReviewRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\ReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:03:58.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:04:02.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\SizeRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\SizeRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\SizeRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\SizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:04:07.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SubCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\SubCategoryRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\SubCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\SubCategoryRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\SubCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:04:12.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:04:16.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ColorRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\ColorRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ColorRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\ColorRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:03:17.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:03:11.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:59:40.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:02:58.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISubCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\ISubCategoryRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\ISubCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\ISubCategoryRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\IRepository\\ISubCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:02:53.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISizeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\ISizeRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\ISizeRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\ISizeRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\IRepository\\ISizeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:02:48.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:02:42.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IReviewRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IReviewRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\IRepository\\IReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:02:38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:02:32.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:02:28.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IProductDetailRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IProductDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IProductDetailRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\IRepository\\IProductDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:02:22.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IOrderRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IOrderRepository .cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IOrderRepository .cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IOrderRepository .cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\IRepository\\IOrderRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:02:17.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IItemRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IItemRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\IRepository\\IItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:02:13.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IImageRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IImageRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\IRepository\\IImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:02:08.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IColorRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IColorRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IColorRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\IRepository\\IColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:02:00.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:01:50.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:00:35.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ECommerce.DataAccess",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\ECommerce.DataAccess.csproj",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\ECommerce.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\ECommerce.DataAccess.csproj",
+              "RelativeToolTip": "ECommerce.DataAccess\\ECommerce.DataAccess.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T16:58:35.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Product.cs",
+              "RelativeToolTip": "ECommerce.Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:30:30.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ProductDetail.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ProductDetail.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ProductDetail.cs",
+              "RelativeToolTip": "ECommerce.Models\\ProductDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:30:51.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Review.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\Review.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Review.cs",
+              "RelativeToolTip": "ECommerce.Models\\Review.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:31:04.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ShoppingCart.cs",
+              "RelativeToolTip": "ECommerce.Models\\ShoppingCart.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:31:10.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Size.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\Size.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Size.cs",
+              "RelativeToolTip": "ECommerce.Models\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:31:17.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SubCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\SubCategory.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\SubCategory.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\SubCategory.cs",
+              "RelativeToolTip": "ECommerce.Models\\SubCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:31:24.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomerCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\CustomerCategoryVM.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ViewModels\\CustomerCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\CustomerCategoryVM.cs",
+              "RelativeToolTip": "ECommerce.Models\\ViewModels\\CustomerCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:36:53.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Order.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Order.cs",
+              "RelativeToolTip": "ECommerce.Models\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:30:19.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Item.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Item.cs",
+              "RelativeToolTip": "ECommerce.Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:30:10.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Image.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\Image.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Image.cs",
+              "RelativeToolTip": "ECommerce.Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:29:52.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ECommerce.Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:28:55.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Color.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\Color.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Color.cs",
+              "RelativeToolTip": "ECommerce.Models\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:28:47.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Category.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\Category.cs",
+              "RelativeToolTip": "ECommerce.Models\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:28:07.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ECommerce.Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:27:16.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SubCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\SubCategoryVM.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ViewModels\\SubCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\SubCategoryVM.cs",
+              "RelativeToolTip": "ECommerce.Models\\ViewModels\\SubCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:41:36.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SizeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\SizeVM.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ViewModels\\SizeVM.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\SizeVM.cs",
+              "RelativeToolTip": "ECommerce.Models\\ViewModels\\SizeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:41:31.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ShoppingCartVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ViewModels\\ShoppingCartVM.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeToolTip": "ECommerce.Models\\ViewModels\\ShoppingCartVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:41:27.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SearchVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\SearchVM.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ViewModels\\SearchVM.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\SearchVM.cs",
+              "RelativeToolTip": "ECommerce.Models\\ViewModels\\SearchVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:41:23.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "ECommerce.Models\\ViewModels\\ProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:41:19.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ProductDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\ProductDetailVM.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ViewModels\\ProductDetailVM.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\ProductDetailVM.cs",
+              "RelativeToolTip": "ECommerce.Models\\ViewModels\\ProductDetailVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:41:15.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductDetailCustomerVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\ProductDetailCustomerVM.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ViewModels\\ProductDetailCustomerVM.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\ProductDetailCustomerVM.cs",
+              "RelativeToolTip": "ECommerce.Models\\ViewModels\\ProductDetailCustomerVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:41:11.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\OrderVM.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ViewModels\\OrderVM.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\OrderVM.cs",
+              "RelativeToolTip": "ECommerce.Models\\ViewModels\\OrderVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:41:05.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DashboardVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\DashboardVM.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ViewModels\\DashboardVM.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\DashboardVM.cs",
+              "RelativeToolTip": "ECommerce.Models\\ViewModels\\DashboardVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:40:32.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CustomerSubCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\CustomerSubCategoryVM.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ViewModels\\CustomerSubCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\CustomerSubCategoryVM.cs",
+              "RelativeToolTip": "ECommerce.Models\\ViewModels\\CustomerSubCategoryVM.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:40:10.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CatsAndSubCatsVCVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\CatsAndSubCatsVCVM.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ViewModels\\CatsAndSubCatsVCVM.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\CatsAndSubCatsVCVM.cs",
+              "RelativeToolTip": "ECommerce.Models\\ViewModels\\CatsAndSubCatsVCVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:36:45.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\CategoryVM.cs",
+              "RelativeDocumentMoniker": "ECommerce.Models\\ViewModels\\CategoryVM.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Models\\ViewModels\\CategoryVM.cs",
+              "RelativeToolTip": "ECommerce.Models\\ViewModels\\CategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:36:03.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:12:39.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Utility\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "ECommerce.Utility\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Utility\\PaginatedList.cs",
+              "RelativeToolTip": "ECommerce.Utility\\PaginatedList.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:37:52.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "ECommerce.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.Utility\\SD.cs",
+              "RelativeToolTip": "ECommerce.Utility\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:34:34.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Program.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce\\Program.cs",
+              "RelativeToolTip": "ECommerce\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:22:48.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\DbInitializer\\IDbInitializer.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\DbInitializer\\IDbInitializer.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\DbInitializer\\IDbInitializer.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\DbInitializer\\IDbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:13:28.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Kan\\source\\repos\\ECommerce\\ECommerce.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\DbInitializer\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:13:18.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

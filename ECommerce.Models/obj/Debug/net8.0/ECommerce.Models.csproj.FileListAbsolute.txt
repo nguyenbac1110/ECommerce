@@ -1,0 +1,15 @@
+C:\Users\Kan\source\repos\ECommerce\ECommerce.Models\bin\Debug\net8.0\ECommerce.Models.deps.json
+C:\Users\Kan\source\repos\ECommerce\ECommerce.Models\bin\Debug\net8.0\ECommerce.Models.dll
+C:\Users\Kan\source\repos\ECommerce\ECommerce.Models\bin\Debug\net8.0\ECommerce.Models.pdb
+C:\Users\Kan\source\repos\ECommerce\ECommerce.Models\bin\Debug\net8.0\ECommerce.Utility.dll
+C:\Users\Kan\source\repos\ECommerce\ECommerce.Models\bin\Debug\net8.0\ECommerce.Utility.pdb
+C:\Users\Kan\source\repos\ECommerce\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.csproj.AssemblyReference.cache
+C:\Users\Kan\source\repos\ECommerce\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kan\source\repos\ECommerce\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.AssemblyInfoInputs.cache
+C:\Users\Kan\source\repos\ECommerce\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.AssemblyInfo.cs
+C:\Users\Kan\source\repos\ECommerce\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\Kan\source\repos\ECommerce\ECommerce.Models\obj\Debug\net8.0\ECommerc.2B5C92DA.Up2Date
+C:\Users\Kan\source\repos\ECommerce\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.dll
+C:\Users\Kan\source\repos\ECommerce\ECommerce.Models\obj\Debug\net8.0\refint\ECommerce.Models.dll
+C:\Users\Kan\source\repos\ECommerce\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.pdb
+C:\Users\Kan\source\repos\ECommerce\ECommerce.Models\obj\Debug\net8.0\ref\ECommerce.Models.dll
